@@ -1,0 +1,39 @@
+[16:48:44] State: building_queue
+[16:48:44] Starting export (queue build)...
+[16:48:46] Exporting: http://localhost/sajt1/
+[16:48:47] Saved HTML for: http://localhost/sajt1/ (assets queued: 24)
+[16:48:47] Exporting: http://localhost/sajt1/galerija/
+[16:48:49] Saved HTML for: http://localhost/sajt1/galerija/ (assets queued: 26)
+[16:48:49] Exporting: http://localhost/sajt1/kontakt/
+[16:48:51] Saved HTML for: http://localhost/sajt1/kontakt/ (assets queued: 22)
+[16:48:51] Exporting: http://localhost/sajt1/cenovnik/
+[16:48:52] Saved HTML for: http://localhost/sajt1/cenovnik/ (assets queued: 20)
+[16:48:52] Exporting: http://localhost/sajt1/o-nama/
+[16:48:53] Saved HTML for: http://localhost/sajt1/o-nama/ (assets queued: 23)
+[16:48:53] Exporting: http://localhost/sajt1/
+[16:48:54] Saved HTML for: http://localhost/sajt1/ (assets queued: 24)
+[16:48:54] Exporting: http://localhost/sajt1/galerija/
+[16:48:55] Saved HTML for: http://localhost/sajt1/galerija/ (assets queued: 26)
+[16:48:55] Exporting: http://localhost/sajt1/kontakt/
+[16:48:56] Saved HTML for: http://localhost/sajt1/kontakt/ (assets queued: 22)
+[16:48:56] Exporting: http://localhost/sajt1/cenovnik/
+[16:48:58] Saved HTML for: http://localhost/sajt1/cenovnik/ (assets queued: 20)
+[16:48:58] Exporting: http://localhost/sajt1/o-nama/
+[16:49:00] Saved HTML for: http://localhost/sajt1/o-nama/ (assets queued: 23)
+[16:49:03] Empty asset file: http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/wpdevart-custom-styles.css?ver=7.0
+[16:49:03] Asset retry scheduled (attempt 1/3, +5s): http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/wpdevart-custom-styles.css?ver=7.0
+[16:49:07] URL export finished. Downloading assets...
+[16:49:07] Assets progress: 29/55 (failed 0)
+[16:49:08] Empty asset file: http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/wpdevart-custom-styles.css?ver=7.0
+[16:49:08] Asset retry scheduled (attempt 2/3, +10s): http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/wpdevart-custom-styles.css?ver=7.0
+[16:49:15] HTTP fetch failed: http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/images/banner-homepage-image-1.jpg — HTTP 404
+[16:49:15] Asset skipped (permanent): http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/images/banner-homepage-image-1.jpg — http_status:404
+[16:49:15] Assets progress: 54/55 (failed 1)
+[16:49:18] Empty asset file: http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/wpdevart-custom-styles.css?ver=7.0
+[16:49:18] Asset failed permanently (attempt 3): http://localhost/sajt1/wp-content/themes/fitness-and-gym-wda/assets/css/front-end/wpdevart-custom-styles.css?ver=7.0
+[16:49:18] Assets finished. Finalizing export...
+[16:49:18] URLs progress: 10/10 (failed 0)
+[16:49:18] URLs exported: 10/10 (failed 0)
+[16:49:18] Assets downloaded: 55/55 (failed 2)
+[16:49:18] ZIP creation failed (no file returned). Check that PHP ZipArchive is enabled and the export directory is writable.
+[16:49:19] Export report sent to API (completed_with_failures, with log).
